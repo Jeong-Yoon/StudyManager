@@ -2,7 +2,7 @@
 
 ## 기술 
 - Spring Boot
-- MySQL 
+- h2 
 - Maven
 - Spring security
 - Thymeleaf
