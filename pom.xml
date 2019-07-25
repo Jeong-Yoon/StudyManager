@@ -96,14 +96,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!--<dependency>-->
-        <!--<groupId>com.h2database</groupId>-->
-        <!--<artifactId>h2</artifactId>-->
-        <!--&lt;!&ndash;<version>1.4.197</version>&ndash;&gt;-->
-        <!--&lt;!&ndash;<scope>test</scope>&ndash;&gt;-->
-        <!--<scope>runtime</scope>-->
-        <!--</dependency>-->
-
         <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
         <dependency>
             <groupId>com.h2database</groupId>
